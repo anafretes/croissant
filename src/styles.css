@@ -10,3 +10,8 @@ img {
   border-radius: 15px;
   border: 1px solid lightgray;
 }
+
+.main-links a {
+  margin: 10px;
+  color: green;
+}
